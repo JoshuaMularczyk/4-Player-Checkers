@@ -1,6 +1,6 @@
 # 4 Player Checkers
 
-Created for CPTR 142 under Professor James Foster
+This project was created for CPTR 142, instructed by Professor James Foster. This was a final Project that was completed in the winter of 2019.
 
 ## Collaborators
 
@@ -9,14 +9,11 @@ Created for CPTR 142 under Professor James Foster
 * Owen Hoffman
 * Cameron Penaflorida
 
-## Problem Definition
+## Overview
 
-The goal for this project is to design a game of checkers for four players.
-The game will output instructions and how to play.
-Each player will be able to enter their name and begin to take their turns.
-After 3 of the players have lost all their pieces on the board, the last player standing will be declared winner.
+For this project, the goal is to design a game of checkers for four players. When the program is run, the game will output instructions and how to play. After the intructions have been read, each player will be able to enter their name and begin to take their turns. After three of the players have lost all their pieces on the board, the last player standing will be declared winner.
 
-### Key Features
+### Key Features/Specifications
 
 * Game rules
 * 4 players
@@ -64,4 +61,4 @@ A winner will not be declared until the end of a turn sequence.
 
 ## Source Code
 
-- [GitHub](https://github.com/Owen-Hoffman/4-player-Checkers)
+- [GitHub]()

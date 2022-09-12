@@ -4,9 +4,9 @@ This project was created for CPTR 142, instructed by Professor James Foster. Thi
 
 ## Collaborators
 
-* Joshua Mularczyk
-* Christian Williams
-* Owen Hoffman
+* [Joshua Mularczyk](https://github.com/JoshuaMularczyk)
+* [Christian Williams](https://github.com/cwill713)
+* [Owen Hoffman](https://github.com/Owen-Hoffman)
 * Cameron Penaflorida
 
 ## Overview

@@ -61,4 +61,4 @@ A winner will not be declared until the end of a turn sequence.
 
 ## Source Code
 
-- [GitHub]()
+- [GitHub](https://github.com/JoshuaMularczyk/4-Player-Checkers/tree/main/Source%20Code)
